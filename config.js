@@ -1,4 +1,9 @@
 const GENESIS_DATA={
-    timestamp
+    timestamp:1,
+    lastHash:'-----',
+    hash:'hash-one',
+    data:[]
+
 
 }
+module.exports={GENESIS_DATA}
