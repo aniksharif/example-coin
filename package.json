@@ -1,0 +1,23 @@
+{
+  "name": "sharmin-coin",
+  "version": "1.0.0",
+  "description": "It's a repo to practise blockchain and cryptocurrecncy",
+  "main": "short_demo_blockchain.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aniksharif/sharmin-coin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aniksharif/sharmin-coin/issues"
+  },
+  "homepage": "https://github.com/aniksharif/sharmin-coin#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
